@@ -1,0 +1,6 @@
+{
+  "name": "Advanced HTML5 Placeholder Polyfill",
+  "tagline": "Provides <input placeholder=\"...\"> support for IE 9 (and some prior versions)",
+  "body": "# Advanced-HTML5-Placeholder-Polyfill\r\nProvides &lt;input placeholder=\"...\"> support for IE 9 (and some prior versions)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
